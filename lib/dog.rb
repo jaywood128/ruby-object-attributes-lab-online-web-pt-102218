@@ -12,7 +12,7 @@ class Dog
     @breed
   end
 end
-class Person 
+class Person
   def name=(name)
     @name = name
   end
@@ -26,5 +26,5 @@ class Person
     @job
   end
 end
-    
+
     
